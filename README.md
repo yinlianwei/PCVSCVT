@@ -21,7 +21,7 @@ Pritical Computer VIsion with SimpleCV Translate
 ### 正文
 请参看已有章节的规范，要注意的是，每个章节在底部都需要有一个links节，包含“目录”，“上一节”和“下一节”的链接。
 ### 代码
-代码要**`go fmt`**后提交。注释文件注明其所属章节。
+注释文件注明其所属章节。
 
 
 ## 交流
