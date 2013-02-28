@@ -3,12 +3,12 @@ PCVSCVT
 
 Pritical Computer VIsion with SimpleCV Translate
 
-翻译 Pritical Computer VIsion with SimpleCV 原版图书，欢迎交流
+Pritical Computer VIsion with SimpleCV 原版图书学习记录，欢迎交流
 
 
 因为做课程设计的原因，用到了计算机视觉方面的知识，Google之后发现这样一个好玩的项目，《SimpleCV计算机视觉实践》《Pritical Computer VIsion with SimpleCV》。第一次整体的翻译一本书，希望大家批评指正。
 
-选择把这个项目放在github上，有感兴趣的可以一起来，坚持每天翻译。
+选择把这个项目放在github上，有感兴趣的可以一起来，强调一遍不是翻译，让大家更好的了解这本书，相当于读书笔记了。
 
 ## 撰写方法
  ` 借鉴了开源图书《GO web编程》的格式 `
